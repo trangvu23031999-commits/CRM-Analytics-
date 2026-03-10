@@ -268,21 +268,6 @@ The symmetry between Churned (177) and Disqualified (177) is significant — the
 
 ---
 
-## 📌 Key Findings Summary
-
-| # | Finding | Implication |
-|---|---|---|
-| 1 | **71.4% of Opportunity leads never close** | Largest single drop in the funnel — primary intervention target |
-| 2 | **$377K stalled at Proposal Sent** (140 deals, ~78d avg) | Highest-risk active concentration in the pipeline |
-| 3 | **88.5% of deals close sooner than expected** (avg –131 days) | Agents are conservative, not overconfident — CRM dates need recalibration |
-| 4 | **Kevin Anderson: best win rate (57.6%) + lowest disq rate (4.2%)** | Strongest dual-dimension performer on the team |
-| 5 | **Churned = Disqualified = 177** — net retention is negative | Customer fit issue, not just lead quality |
-| 6 | **Enterprise converts at 7.58%** vs Large at 2.99% | Strong top-end fit; Large segment (501–1000) needs strategy review |
-| 7 | **Manufacturing & Production: 9.16% conv rate** | Highest of any industry — under-penetrated relative to conversion potential |
-| 8 | **Netherlands / Belgium / Portugal: 7.5–7.8% conv** | Smaller markets outperform high-volume markets on quality |
-
----
-
 ## 👤 Author
 
 Built as a SQL + Power BI portfolio project demonstrating business-oriented analytical thinking on a realistic B2B CRM dataset.
