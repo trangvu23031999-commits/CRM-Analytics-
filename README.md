@@ -47,27 +47,6 @@ crm-sales-pipeline-analytics/
 
 ---
 
-## 🗂️ Dataset Schema
-
-| Column | Type | Description |
-|---|---|---|
-| `Organization` | string | Company name |
-| `Country` | string | 9 European countries |
-| `Lattitude` / `Longitude` | float | Geo coordinates |
-| `Industry` | string | 14 industry verticals |
-| `Organization_size` | string | Micro / Small / Medium / Large / Enterprise |
-| `Owner` | string | Assigned sales rep (8 total) |
-| `Lead_acquisition_date` | date | When the lead entered the pipeline |
-| `Product` | string | SAAS / Services / Custom Solution |
-| `Status` | string | Current pipeline status |
-| `Status_sequence` | int | Status order (1→7) |
-| `Stage` | string | Sub-stage within Opportunity only |
-| `Deal_Value_USD` | int | Face value of the deal |
-| `Probability_pct` | int | Rep-stated close probability |
-| `Expected_close_date` | date | Rep's forecast close date |
-| `Actual_close_date` | date | Populated for Customer + Churned only |
-
-
 ## 🔍 Analysis Sections
 
 ### 1 · Funnel Analysis & Bottleneck
